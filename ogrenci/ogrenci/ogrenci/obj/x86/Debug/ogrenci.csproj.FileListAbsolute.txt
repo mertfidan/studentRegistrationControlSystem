@@ -1,0 +1,36 @@
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\bin\Debug\ogrenci.exe
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\bin\Debug\ogrenci.pdb
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Properties.Resources.resources
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.csproj.GenerateResource.Cache
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.exe
+c:\users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.pdb
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormAna.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormKaydet.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormGuncel.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormAra.resources
+C:\Users\mertmeric\documents\visual studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormSil.resources
+C:\Users\mertmeric\Documents\Visual Studio 2010\Projects\ogrenci\ogrenci\bin\Debug\ogr.accdb
+C:\Users\mertmeric\Documents\Visual Studio 2010\Projects\ogrenci\ogrenci\bin\Debug\ogrenci.exe.config
+C:\Users\mertmeric\Documents\Visual Studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.giris.resources
+C:\Users\mertmeric\Documents\Visual Studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Admin.resources
+C:\Users\mertmeric\Documents\Visual Studio 2010\Projects\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Kayit.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\bin\Debug\ogrenci.exe.config
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.exe
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.pdb
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\bin\Debug\ogrenci.exe
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\bin\Debug\ogrenci.pdb
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.csprojResolveAssemblyReference.cache
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Admin.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormAna.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormAra.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormGuncel.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormSil.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.FormKaydet.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Giris.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Kayit.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.Properties.Resources.resources
+C:\Users\mertmeric\Desktop\ogrenci\ogrenci\obj\x86\Debug\ogrenci.csproj.GenerateResource.Cache
+C:\Users\mert\Desktop\Projeler\ogrenci\ogrenci\ogrenci\obj\x86\Debug\ogrenci.csprojAssemblyReference.cache
+C:\Users\mert\Desktop\Projeler\ogrenci\ogrenci\ogrenci\obj\x86\Debug\ogrenci.exe
+C:\Users\mert\Desktop\Projeler\ogrenci\ogrenci\ogrenci\obj\x86\Debug\ogrenci.pdb
